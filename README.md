@@ -1,2 +1,2 @@
 # programming-journey
-documentar a minha evolucao auto didatica de programador
+Minha jornada de aprendizado em programação.
